@@ -68,8 +68,6 @@ git clone https://github.com/Mussab85/-Image-Format-Converter.git
 
 ### 📸 Screenshot
 
-> Add a screenshot here if you want — just place it in your repo and reference it:
-
 ```markdown
 ![App Screenshot](screenshot.png)
 ```
