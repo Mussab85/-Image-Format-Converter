@@ -69,7 +69,7 @@ git clone https://github.com/Mussab85/-Image-Format-Converter.git
 ### 📸 Screenshot
 
 ```markdown
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/Mussab85/-Image-Format-Converter/blob/main/screenshot.png)
 ```
 
 ---
