@@ -93,7 +93,3 @@ Feel free to connect or contribute!
 ### ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Would you like me to generate a sample screenshot or write the `LICENSE` file too?
