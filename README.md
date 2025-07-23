@@ -27,7 +27,7 @@ A simple and modern Java Swing application that allows users to convert images b
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/image-converter-java.git
+git clone https://github.com/Mussab85/-Image-Format-Converter.git
 ```
 
 2. **Open the project in your IDE**
