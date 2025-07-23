@@ -34,7 +34,7 @@ git clone https://github.com/Mussab85/-Image-Format-Converter.git
 
 3. **Build and run the application:**
 
-* Run `Frame1.java` (contains the `main()` method)
+* Run `ImageConverterApp.java` (contains the `main()` method)
 
 ---
 
