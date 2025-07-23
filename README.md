@@ -1,7 +1,3 @@
-Here's a professional `README.md` file for your **Image Format Converter** project using Java Swing.
-
----
-
 ## 📷 Image Format Converter - Mussab Zneika
 
 A simple and modern Java Swing application that allows users to convert images between different formats (JPG, PNG, GIF, BMP), resize images, and compress JPG files with adjustable quality.
